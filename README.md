@@ -1,10 +1,10 @@
-## Study Completed📓 
+## 📓 Study Completed
 - 24/11/18
   - ~ 1.12 props
  
 ---
 
-# Contents
+# 🌱 Contents
 ## 1. 리액트 기초
 - 01 수업 소개
 - 02 리액트 공부 전략
