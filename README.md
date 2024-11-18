@@ -1,6 +1,7 @@
 ## 📓 Study Completed
-- 24/11/18
-  - ~ 1.12 props
+- 24/11/18 - ~ 1.12 props
+  - pure.html 파일 추가
+  - App.js 제목, 목차, article 컴포넌트 추가 및 props 사용
  
 ---
 
