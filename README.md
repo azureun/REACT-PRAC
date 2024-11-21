@@ -2,6 +2,8 @@
 - 24/11/18 - ~ 1.12 props
   - pure.html 파일 추가
   - App.js 제목, 목차, article 컴포넌트 추가 및 props 사용
+- 24/11/20 - 1.13 ~ 1.15
+  - App.js에 있던 클래스들 component 디렉토리로 분리하여 관리
  
 ---
 
