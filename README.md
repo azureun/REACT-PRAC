@@ -8,7 +8,11 @@
   - App.js state의 mode 값에 따라 컴포넌트 랜더링 달라지도록 설정
   - 함수 호출 순서를 위해 Subject, TOC.js, Content.js 컴포넌트들에 로그 추가
 - 24/11/22
-  - 이벤트 프로그래밍 
+  - 이벤트 프로그래밍 : 이벤트 설치하기
+24/11/25
+  - App.js state, setState 함수 이용
+    이벤트에서 state 변경하기, 이벤트 bind 함수 이해하기, 이벤트 setState 함수 이해하기
+
  
 ---
 
