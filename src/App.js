@@ -13,8 +13,8 @@ import './App.css';
 // Content 컴포넌트는 <article> 부분을 컴포넌트로 변환 한 것
 //class Content를 src/components/Content.js안에 넣어 관리
 
-class App extends Component {
-    constructor(props){
+class App extends Component {       
+    constructor(props){         
         super(props);
         this.state = {  //가장 먼저 컴포넌트 초기화
             mode:'read',
